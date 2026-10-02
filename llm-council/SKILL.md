@@ -59,7 +59,7 @@ Then write one neutral **framed question** containing:
 - the relevant facts from any files you read (stage, audience, constraints, numbers, past results);
 - what is at stake.
 
-Do not slip in your own opinion. If the request is too vague ("council this: my business"), ask exactly one clarifying question, then continue.
+Do not slip in your own opinion. If the request is too vague to frame ("council this: my business"), ask exactly one clarifying question, then continue.
 
 ### 2. Advisors (5 sub-agents, in parallel)
 
