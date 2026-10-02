@@ -2,6 +2,8 @@
 
 [فارسی](README.fa.md) | English
 
+**[Usage guide: visual walkthrough in English and Persian](https://mrasoul10-sudo.github.io/llm-council-skill/)**
+
 A Claude skill that pressure-tests a decision. Instead of one answer, you get five independent analyses from deliberately different lenses, a blind peer-review round, and a chairman's single verdict.
 
 Works in Claude Code and in Claude (claude.ai) wherever skills and sub-agents are available. Replies in the language you ask in, including Persian.
